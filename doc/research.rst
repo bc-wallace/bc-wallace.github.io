@@ -3,7 +3,7 @@ Research
 
 .. _research:
 
-This page features a collection of my past and current research.
+This page features a collection of my past and current research. Please email me if you'd like to request access to a specific publication.
 
 
 Projected changes of Mesoscale Convective Systems and their environments

@@ -16,7 +16,7 @@ Mesoscale convective systems (MCS) are clusters of individual deep convective ce
 .. raw:: html
 
    <div style="text-align: center;">
-       <img src="/Users/bwal/Scripts/website/img/mcs_ratio.png" alt="Alternative Text" width="600" height="600">
+       <img src="../../img/mcs_ratio.png" alt="Alternative Text" width="600" height="600">
        <p style="font-size: smaller;">Figure 1 (above): Average annual accumulated rainfall, annual accumulated rainfall from MCS, and the ratio of MCS rainfall to all rainfall in 15-year convection permitting regional climate simulations forced by CESM for the historical (1990-2005) period [top], end of century [2085-2100] RCP4.5 scenario (middle), and end of century RCP8.5 scenario (bottom).</p>
    </div>
 

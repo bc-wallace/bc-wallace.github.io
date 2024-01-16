@@ -31,7 +31,7 @@ html_title = 'Home'
 html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
     "external_links": [
-        {"name":"CV","url":"https://youtube.com"},
+        {"name":"CV","url":"https://github.com/bc-wallace/bc-wallace.github.io/blob/main/files/CV.pdf"},
         {"name":"Google Scholar","url":"https://scholar.google.com/citations?hl=en&user=vaf38NgAAAAJ&view_op=list_works&sortby=pubdate"},
     ],
     "github_url": "https://github.com/bc-wallace/",

@@ -9,7 +9,7 @@ AMS 2024
 
 Our group at NIU recently presented results at AMS 2024 on changes in mesoscale convective system (MCS) behavior and spatial distribution in a set of continental-scale convection permitting regional climate model output.
 
-A link to the talk can be found in the program `here. <https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/438461>`_
+A link to the talk can be `here (starts at 00:30:00). <https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Session/66948>`_
 
 What distinguishes our results from past studies utilizing convection-permitting models to study changes in MCS is that we consider how changes in the large-scale circulation may influence the overall MCS response. Due to computational restraints, many studies looking at future changes in extreme precipitation in high resolution numerical models are primarily constrained to quantifying how changes in thermodynamics affect the overall response. We find a shift in the frequency of upper-tropospheric troughs that is overall supportive of an enhanced MCS signature in the eastern United States. However this signal is small relative to the changes in large-scale circulation due to interannual variability. Instead, we classify MCS based on the magnitude of their large-scale forcing at initiation time and find that an increase in MCS in weakly-forced synoptic environments can help to explain a non-negligible increase in the overall MCS frequency. 
 

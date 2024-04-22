@@ -5,14 +5,14 @@
    research
    blog
 
-
 Welcome
 ---------
 
 .. _home:
 
 
-Hello! I am a joint postdoctoral research associate for Northern Illinois University's Department of Earth, Atmosphere, and Environment and Argonne National Laboratory's Geospatial Computing, Innovations, and Sensing division. My work focuses on the utilization of high-resolution regional climate simulations to address important weather and climate research questions. I have a strong interest in Python and leveraging distributed computing to efficiently process large climate datasets.
+
+Hello! I am a climate data scientist at Leidos. My work primarily focuses on the utilization of high-resolution regional climate datasets to address important weather and climate research questions. I have a strong interest in Python and leveraging distributed computing to efficiently process large climate datasets. More recently, I have taken an interest in alternative file storage formats and statistical downscaling techniques using machine learning.
 
 Recent News
 ---------

@@ -12,7 +12,7 @@ Welcome
 
 
 
-Hello! I am a climate data scientist at Leidos. My work primarily focuses on the utilization of high-resolution regional climate datasets to address important weather and climate research questions. I have a strong interest in Python and leveraging distributed computing to efficiently process large climate datasets. More recently, I have taken an interest in alternative file storage formats and statistical downscaling techniques using machine learning.
+Hello! I am an atmospheric scientist at Leidos. My work primarily focuses on the utilization of high-resolution numerical weather models to address important research questions. I have a strong interest in Python and leveraging distributed computing to efficiently process large gridded datasets. More recently, I have taken an interest in alternative file storage formats and statistical downscaling techniques using machine learning.
 
 Recent News
 ---------
